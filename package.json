@@ -1,4 +1,12 @@
 {
   "name": "portfolio-server",
-  "packageManager": "yarn@4.6.0"
+  "version": "1.0.0",
+  "description": "Server for the portfolio",
+  "license": "ISC",
+  "author": "Sudeepta Sarkar",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
